@@ -2,7 +2,8 @@
 
 ## Project Structure
 rhombus-ai-tests/
-├── ui-tests/                        # Part 1 – UI Automation (Playwright)
+rhombus-ai-tests/
+├── ui-tests/
 │   ├── conftest.py
 │   ├── pytest.ini
 │   ├── .env
@@ -10,18 +11,16 @@ rhombus-ai-tests/
 │   │   └── messy_data.csv
 │   └── tests/
 │       └── test_ai_pipeline_flow.py
-├── api-tests/                       # Part 2 – API Tests
+├── api-tests/
 │   ├── conftest.py
 │   ├── pytest.ini
 │   ├── .env
 │   ├── fixtures/
 │   │   └── messy_data.csv
 │   └── test_api.py
-├── data-validation/                 # Part 3 – Data Validation
+├── data-validation/
 │   └── validate.py
 └── README.md
-
----
 
 ## Setup
 
@@ -134,3 +133,5 @@ you downloaded from Rhombus AI after running the pipeline.
 - Data validation checks correctness of transformation, not just workflow completion.
 
 
+
+# rhombus-ai-tests
