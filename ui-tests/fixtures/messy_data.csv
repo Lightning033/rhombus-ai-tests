@@ -1,0 +1,13 @@
+ID,First Name ,Last Name,  Email ,Phone,Date of Birth,Salary ,Department
+1,John ,Doe,john.doe@email.com,  555-1234,01/15/1990,$75000,Engineering
+2,jane,SMITH,jane.smith@EMAIL.COM,5552345,1992-03-22,80000,marketing
+3,Bob,,bob.jones@email.com,555-3456,March 5 1988,$92500,Engineering
+4,ALICE,Johnson,alice.j@email.com,,04-10-1995,67000.00,HR
+5,charlie,brown,charlie@email.com,555-5678,1991/07/30,$55000,Sales
+6,Diana,Prince,diana.prince@email.com,555-6789,08/20/1987,110000,Engineering
+7,Edward,,ned@email.com,5557890,1993-11-11,$88000,Marketing
+8,Fiona ,Apple,fiona@email.com,555-8901,1989-05-25,72000,HR
+9,george,Washington,george.w@email.com,555-9012,,95000,Sales
+10,Helen,Troy,helen@email.com,5550123,02/14/1994,$61500,Marketing
+,InvalidRow,Data,notanemail,abc,baddate,notanumber,
+11,  ,Whitespace,spaces@email.com,555-1111,1990-01-01,50000,HR
