@@ -119,7 +119,7 @@ you downloaded from Rhombus AI after running the pipeline.
 
 ## Demo Video
 
-[Link to demo video]
+[[Link to demo video](https://www.loom.com/share/284aee053b30438f840a582e4eec9677)
 
 ---
 
