@@ -2,24 +2,23 @@
 
 ## Project Structure
 rhombus-ai-tests/
-rhombus-ai-tests/
-├── ui-tests/
-│   ├── conftest.py
-│   ├── pytest.ini
-│   ├── .env
-│   ├── fixtures/
-│   │   └── messy_data.csv
-│   └── tests/
-│       └── test_ai_pipeline_flow.py
+ui-tests/
+├── conftest.py
+├── pytest.ini
+├── .env
+├── fixtures/
+└── messy_data.csv
+└── tests/
+└── test_ai_pipeline_flow.py
 ├── api-tests/
-│   ├── conftest.py
-│   ├── pytest.ini
-│   ├── .env
-│   ├── fixtures/
-│   │   └── messy_data.csv
-│   └── test_api.py
+├── conftest.py
+├── pytest.ini
+├── .env
+├── fixtures/
+└── messy_data.csv
+└── test_api.py
 ├── data-validation/
-│   └── validate.py
+└── validate.py
 └── README.md
 
 ## Setup
